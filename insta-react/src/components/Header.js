@@ -12,12 +12,12 @@ export default class Header extends Component {
                     <nav className="links">
                         <ul>
                             <li>
-                                <a className="menu__links">
+                                <a href="#" className="menu__links">
                                     Лента
                                 </a>
                             </li>
                             <li>
-                                <a className="menu__links">
+                                <a href="#" className="menu__links">
                                     Профиль
                                 </a>
                             </li>
