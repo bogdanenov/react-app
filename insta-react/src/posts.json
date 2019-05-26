@@ -1,13 +1,24 @@
 {
     "posts": [
         {
+            "name": "bogdan_enov",
+            "altname": "Bogdan",
+            "photo": "https://instagram.fods1-1.fna.fbcdn.net/vp/e34ec8dd78b50ff7625df2b980b12bae/5D875FE3/t51.2885-15/e35/58410514_617071198798451_1872914675302242649_n.jpg?_nc_ht=instagram.fods1-1.fna.fbcdn.net",
+            "src": "https://instagram.fods1-1.fna.fbcdn.net/vp/c6c51156344365ddf6f80570c493622e/5D959F98/t51.2885-15/e35/59810389_1128109304043233_1143468283888807865_n.jpg?_nc_ht=instagram.fods1-1.fna.fbcdn.net",
+            "alt": "Me",
+            "descr": "My first project with React JS",
+            "id": "10",
+            "active" : true
+        },
+        {
             "name": "jessy_john",
             "altname": "Jessy",
             "photo": "https://ksassets.timeincuk.net/wp/uploads/sites/46/2017/03/Priti-Patel-re-sized.jpg",
             "src": "http://isha.sadhguru.org/blog/wp-content/uploads/2016/05/natures-temples.jpg",
             "alt": "Nature",
             "descr": "This is so perfect! Amazing nature!",
-            "id": "1"
+            "id": "1",
+            "active" : false
         },
         {
             "name": "abracham_mvp",
@@ -16,7 +27,8 @@
             "src": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1920/marquee/1025957/72e1f4c7b764c8d2_mwp_hp_hero_landscape.jpg",
             "alt": "Photo",
             "descr": "Hello, this is my first photo here!",
-            "id": "2"
+            "id": "2",
+            "active" : false
         },
         {
             "name": "petrychenko_ivan",
@@ -25,7 +37,8 @@
             "src": "https://scontent-arn2-2.cdninstagram.com/vp/5eaed9d4cff5a383ac4268734ab83db4/5D5EB16E/t51.2885-15/e35/52364169_313103329348388_2352836595513722142_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com",
             "alt": "Tech photo",
             "descr": "Real photo from instagram",
-            "id": "3"
+            "id": "3",
+            "active" : false
         },
         {
             "name": "real_eggs",
@@ -34,7 +47,8 @@
             "src": "https://hips.hearstapps.com/delish/assets/18/08/1519321899-hard-boiled-eggs-horizontal.jpg",
             "alt": "My world",
             "descr": "When you so tired...",
-            "id": "4"
+            "id": "4",
+            "active" : false
         },
         {
             "name": "katefromlviv",
@@ -43,7 +57,8 @@
             "src": "https://nighthelper.com/wp-content/uploads/2016/03/nature_waterfall_summer_lake_trees_90400_3840x2160.jpg",
             "alt": "Lake",
             "descr": "Какое прекрасное летнее озеро! Сфоткала пока ехала в село, к бабушке",
-            "id": "5"
+            "id": "5",
+            "active" : false
         },
         {
             "name": "smoothiemaker",
@@ -52,7 +67,8 @@
             "src": "https://www.culinaryhill.com/wp-content/uploads/2015/01/Caribbean-Passion-Smoothie-Jamba-Juice-Copycat-Culinary-Hill-square.jpg",
             "alt": "Smoothie",
             "descr": "Hello! If you want to drink some delicious smoothies - just call me!",
-            "id": "6"
+            "id": "6",
+            "active" : false
         }
     ]
 }
